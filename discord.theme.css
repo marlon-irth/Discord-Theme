@@ -2082,9 +2082,6 @@
 
     .avatarWrapper-1B9FTW[aria-expanded=true]~.directionRow-2Iu2A9 button[aria-label="User Settings"],
     .avatarWrapper-1B9FTW[aria-expanded=true]~.directionRow-2Iu2A9 button[aria-label=Benutzereinstellungen],
-    .avatarWrapper-1B9FTW[aria-expanded=true]~.directionRow-2Iu2A9 button[aria-label=Brugerindstillinger],
-    .avatarWrapper-1B9FTW[aria-expanded=true]~.directionRow-2Iu2A9 button[aria-label=Brukerinnstillinger],
-    .avatarWrapper-1B9FTW[aria-expanded=true]~.directionRow-2Iu2A9 button[aria-label=Gebruikersinstellingen] {
         display: block
     }
 
@@ -3746,8 +3743,8 @@
 
     .profileBannerPreview-3_l0Wd .avatarUploaderHint-2ZdBlc,
     .profileBannerPreview-3_l0Wd .avatarUploaderIndicator-2G-aIZ,
-    .profileBannerPreview-3_l0Wd .avatarUploaderInner-yEhTv5 [class^=fileInput],
-    .profileBannerPreview-3_l0Wd .bannerUploaderInnerSquare-1ddxpx [class^=fileInput] {
+    .profileBannerPreview-3_l0Wd .avatarUploaderInner-yEhTv5 [class=fileInput],
+    .profileBannerPreview-3_l0Wd .bannerUploaderInnerSquare-1ddxpx [class=fileInput] {
         display: none !important
     }
 
@@ -4210,12 +4207,12 @@
         margin: 0 4px 10px 0
     }
 
-    .toolbar-3_r2xA a.anchor-1X4H4q[href^="https://support.discord.com"] {
+    .toolbar-3_r2xA a.anchor-1X4H4q[href="https://support.discord.com"] {
         display: none
     }
 
-    .toolbar-3_r2xA .iconWrapper-2awDjA[aria-label*=Kanal][aria-label*=stummschalten],
-    .toolbar-3_r2xA .iconWrapper-2awDjA[aria-label^="Mute channel"] {
+    .toolbar-3_r2xA .iconWrapper-2awDjA[aria-label=Kanal][aria-label*=stummschalten],
+    .toolbar-3_r2xA .iconWrapper-2awDjA[aria-label="Mute channel"] {
         display: none
     }
 
