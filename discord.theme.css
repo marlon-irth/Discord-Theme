@@ -6477,9 +6477,9 @@
         --icon: var(--icon-architecture)
     }
 
-    .container-1NXEtd a[aria-label*=library] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=log] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=web] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=library] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=log] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=web] .iconContainer-21RCa3 {
         background-color: var(--icon-color);
         --icon: var(--icon-list2)
     }
@@ -6506,20 +6506,20 @@
         --icon: var(--icon-list)
     }
 
-    .container-1NXEtd a[aria-label*="-repo"] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=github-log] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=github] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=repositor] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label="-repo"] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=github-log] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=github] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=repositor] .iconContainer-21RCa3 {
         --icon: var(--icon-github);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=game] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=games] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=gamin] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=gaming] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=gayming] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=playtesting] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=game] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=games] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=gamin] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=gaming] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=gayming] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=playtesting] .iconContainer-21RCa3 {
         --icon: var(--icon-games);
         background-color: var(--icon-color)
     }
@@ -6536,10 +6536,10 @@
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=conspiraci] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=conspiracy] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=illuminati] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=the-truth] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=conspiraci] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=conspiracy] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=illuminati] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=the-truth] .iconContainer-21RCa3 {
         --icon: var(--icon-truth);
         background-color: var(--icon-color)
     }
@@ -6554,29 +6554,29 @@
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=asset] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=sandbox] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=asset] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=sandbox] .iconContainer-21RCa3 {
         --icon: var(--icon-asset);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=collection] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=collection] .iconContainer-21RCa3 {
         --icon: var(--icon-collection);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=alert] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=read-this] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=alert] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=read-this] .iconContainer-21RCa3 {
         --icon: var(--icon-alert);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=reference] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=reference] .iconContainer-21RCa3 {
         --icon: var(--icon-reference);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=dump] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=dump] .iconContainer-21RCa3 {
         --icon: var(--icon-dump);
         background-color: var(--icon-color)
     }
@@ -6586,17 +6586,17 @@
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=blueprint] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=node] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=pipeline] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=blueprint] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=node] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=pipeline] .iconContainer-21RCa3 {
         --icon: var(--icon-pipeline);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=new-member] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=partner] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=supporter] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=welcome] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=new-member] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=partner] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=supporter] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=welcome] .iconContainer-21RCa3 {
         --icon: var(--icon-welcome);
         background-color: var(--icon-color)
     }
@@ -6607,86 +6607,86 @@
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=audio] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=sfx] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=sound] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=audio] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=sfx] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=sound] .iconContainer-21RCa3 {
         --icon: var(--icon-sfx);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=concept] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=concept] .iconContainer-21RCa3 {
         --icon: var(--icon-concept);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=decal] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=decal] .iconContainer-21RCa3 {
         --icon: var(--icon-decal);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=icon] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=ui] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=ux] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=icon] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=ui] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=ux] .iconContainer-21RCa3 {
         --icon: var(--icon-ui-ux);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=model] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=model] .iconContainer-21RCa3 {
         --icon: var(--icon-model);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=task] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=task] .iconContainer-21RCa3 {
         --icon: var(--icon-task);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=ballistics] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=ballistics] .iconContainer-21RCa3 {
         --icon: var(--icon-ballistics);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=source] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=source] .iconContainer-21RCa3 {
         --icon: var(--icon-source);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=folder] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=resource] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=folder] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=resource] .iconContainer-21RCa3 {
         --icon: var(--icon-folder);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=introduction] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=portfolio] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=showcase] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=showoff] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=introduction] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=portfolio] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=showcase] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=showoff] .iconContainer-21RCa3 {
         --icon: var(--icon-portfolio);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=forge] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=forge] .iconContainer-21RCa3 {
         --icon: var(--icon-forge);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=bug] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=bug] .iconContainer-21RCa3 {
         --icon: var(--icon-bug);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=filter] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=filter] .iconContainer-21RCa3 {
         --icon: var(--icon-filter);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=map] .iconContainer-21RCa3,
-    .container-1NXEtd a[aria-label*=worldbuilding] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=map] .iconContainer-21RCa3,
+    .container-1NXEtd a[aria-label=worldbuilding] .iconContainer-21RCa3 {
         --icon: var(--icon-map);
         background-color: var(--icon-color)
     }
 
-    .container-1NXEtd a[aria-label*=feed] .iconContainer-21RCa3 {
+    .container-1NXEtd a[aria-label=feed] .iconContainer-21RCa3 {
         --icon: var(--icon-feed);
         background-color: var(--icon-color)
     }
