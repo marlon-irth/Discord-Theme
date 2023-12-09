@@ -18,13 +18,6 @@
     
     # ---------------------- GREENMAN BETTER CONTEXT MENU ---------------------- #
     
-    /**
-     * @name Better Context Menu
-     * @author Alexis | WyvernZu#0001
-     * @version 01.03.23a
-     * @description Adds icons to the context menu. Made into a snippet and updated by GreenMan36#0633, idea & some additional work by wendjy's#9114
-    */
-
     :root {
       --hide-context-menu-invite-to-server: none; /* Discord default: flex */
     }
